@@ -1,0 +1,18 @@
+.intro-bg{
+    background-image: url("../assets/hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 80vh;  
+    filter: blur();
+}
+
+#profile_picture {
+    border-radius: 50%;
+    max-width: 20vw;
+    max-height: 20vw;
+}
+
+.main_body {
+    background-color: #1F1A38; 
+}
